@@ -24,3 +24,5 @@ Die Helmholtz-Gemeinschaft hat in diesem [Tweet](https://twitter.com/helmholtz_d
 ##maiLab
 Mai Thi Nguyen-Kim hat hier einen ganz tollen Youtubekanal mit Kindgerechten Viedeos zu wissenschaftlichen Themen
 [Youtube](https://www.youtube.com/channel/UCyHDQ5C6z1NDmJ4g6SerW8g)
+
+und unter dem Hashtag [#ScienceAtHome](https://twitter.com/hashtag/ScienceAtHome) gibt es bei Twitter noch ganz viele weitere tolle Empfehlungen und Angebote.
