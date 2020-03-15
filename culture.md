@@ -14,5 +14,13 @@ Hier kann man einen virtuellen Spaziergang durchs [Guggenheim Museum](https://ar
 ## Bayrische Staatsoper
 Hier spielt die Bayrische Staatsoper online: [Link](https://www.staatsoper.de/stream.html)
 
+## Staatsoper Stuttgart
+Auch die Staatsoper Stuttgart spielt online [Link](https://www.staatsoper-stuttgart.de/spielplan/oper-trotz-corona)
+
+## the Metropolitan Opera
+the Metropolitan Opera will also stream daily [here](https://www.metopera.org/about/press-releases/met-to-launch-nightly-met-opera-streams-a-free-series-of-encore-live-in-hd-presentations-streamed-on-the-company-website-during-the-coronavirus-closure/)
+
+## Europa Online
+Hier mal etwas zum Thema Architektur und Denkmalschutz: [denkmal-europa.de](https://www.denkmal-europa.de/denkmaleuropa_uebersicht/)
 
 
