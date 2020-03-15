@@ -11,7 +11,8 @@ Die Wiener Staatsoper streamt hier viele kostenlose Aufzeichnungen:
 ## Guggenheim Museum in New York
 Hier kann man einen virtuellen Spaziergang durchs [Guggenheim Museum](https://artsandculture.google.com/streetview/solomon-r-guggenheim-museum-interior-streetview/jAHfbv3JGM2KaQ?hl=en&sv_lng=-73.95902634325634&sv_lat=40.78285751667664&sv_h=30.75703204567916&sv_p=0.06928383072430222&sv_pid=MfnUmHRyOSzMtY3vtYU05g&sv_z=0.9645743015259166) machen
 
-
+## Bayrische Staatsoper
+Hier spielt die Bayrische Staatsoper online: [Link](https://www.staatsoper.de/stream.html)
 
 
 
