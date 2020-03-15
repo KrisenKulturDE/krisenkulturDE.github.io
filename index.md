@@ -13,4 +13,4 @@ Hier werden Links zu verschiedensten Lehr und Lernangeboten gesammelt:
 [Science at Home](/science-at-home)
 
 
-Wenn du Kulturschafender bist und einen Link zu einem Angebot hier sehen möchtest gib uns bitte bescheid ;)
+Wenn du Kulturschaffender bist und einen Link zu einem Angebot hier sehen möchtest gib uns bitte bescheid ;)
