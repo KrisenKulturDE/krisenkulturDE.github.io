@@ -20,3 +20,7 @@ danke an DLR_next für den [Tweet](https://twitter.com/DLR_next/status/123870724
 
 ##Experimente für Kinder
 Die Helmholtz-Gemeinschaft hat in diesem [Tweet](https://twitter.com/helmholtz_de/status/1238728035580477440?s=20) ein paar tolle Experimente für Kinder zum selbermachen.
+
+##maiLab
+Mai Thi Nguyen-Kim hat hier einen ganz tollen Youtubekanal mit Kindgerechten Viedeos zu wissenschaftlichen Themen
+[Youtube](https://www.youtube.com/channel/UCyHDQ5C6z1NDmJ4g6SerW8g)
