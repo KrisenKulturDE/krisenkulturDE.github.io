@@ -4,6 +4,6 @@ Repository für die website https://krisenkultur.github.io
 Auf dieser Seite werden Verweise und Links zu Veranstaltungen gesammelt, die aufgrund von Covid19 nicht Live stattfinden,
 sondern online bereitstehen.
 
-Wenn du Kulturschafender bist und einen Link zu deinem Angebot hier sehen möchtest gib uns bitte bescheid ;)
+Wenn du Kulturschaffender bist und einen Link zu deinem Angebot hier sehen möchtest gib uns bitte bescheid ;)
 
 Wir sind Teil der Bewegung https://gegen-den-virus.de/
