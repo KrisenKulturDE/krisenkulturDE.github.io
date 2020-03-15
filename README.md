@@ -1,5 +1,5 @@
 # Krisenkultur
-Repository for the website https://krisenkultur.github.io
+Repository für die website https://krisenkultur.github.io
 
 Auf dieser Seite werden Verweise und Links zu Veranstaltungen gesammelt, die aufgrund von Covid19 nicht Live stattfinden,
 sondern online bereitstehen.
